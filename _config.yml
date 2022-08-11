@@ -22,7 +22,7 @@ title: Data Science @ ASOS
 description: >- 
   ASOS Tech - where good ideas become awesome software
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.asos.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://asos.github.io/DataScience/" # the base hostname & protocol for your site, e.g. http://example.com
 header_pages:
   - index.md
 show_excerpts: true
