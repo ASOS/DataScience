@@ -9,7 +9,7 @@ excerpt: As a Lead Machine Learning Scientist for Search & Recommender systems, 
 
 We’re hiring. Apply [here](https://jobs.smartrecruiters.com/external-referrals/company/ASOS/publication/b5082edd-72fc-4f46-b168-cf529c3c5b27?dcr_ci=ASOS).
 
-![Lead Machine Learning Scientist](/images/lmls.png)
+![Lead Machine Learning Scientist]({{ "/images/lmls.png" | relative_url }})
 
 ## Job Description
 
