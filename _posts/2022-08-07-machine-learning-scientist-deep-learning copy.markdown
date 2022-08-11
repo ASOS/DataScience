@@ -9,7 +9,7 @@ excerpt: As a machine learning scientist, you will be part of a cross-functional
 
 We’re hiring. Apply [here](https://jobs.smartrecruiters.com/ASOS/743999821712812-machine-learning-scientist-deep-learning).
 
-![Machine Learning Scientist](/images/mls-dl.png)
+![Machine Learning Scientist]({{ "/images/mls-dl.png" | relative_url }})
 
 ## Job Description
 

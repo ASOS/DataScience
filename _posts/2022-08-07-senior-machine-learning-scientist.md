@@ -9,7 +9,7 @@ excerpt: As a Senior Machine Learning Scientist, you will be working in a cross-
 
 We’re hiring. Apply [here](https://jobs.smartrecruiters.com/ASOS/743999821713273-senior-machine-learning-scientist).
 
-![Senior Machine Learning Scientist](/images/sml.png)
+![Senior Machine Learning Scientist]({{ "/images/sml.png" | relative_url }})
 
 ## Job Description
 
