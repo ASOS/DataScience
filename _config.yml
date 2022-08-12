@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 author: 
-title: Data Science @ ASOS
+title: Machine Learning & AI @ ASOS
 description: >- 
   ASOS Tech - where good ideas become awesome software
 baseurl: "/data-science" # the subpath of your site, e.g. /blog
